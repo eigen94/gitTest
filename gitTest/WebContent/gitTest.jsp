@@ -8,5 +8,6 @@
 </head>
 <body>
 깃허브 테스트 입니다.
+병합(merge)용 수정내용입니다.
 </body>
 </html>
