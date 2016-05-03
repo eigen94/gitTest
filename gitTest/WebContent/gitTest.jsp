@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-깃허브 테스트 입니다.
+깃허브(conflict 발생시키기) 테스트 입니다.
+
+같은 파일 내용을 수정 하면 conflict가 발생합니다.
 </body>
 </html>
